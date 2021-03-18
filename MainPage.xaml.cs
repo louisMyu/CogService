@@ -24,7 +24,9 @@ namespace AzureCogService
     {
         public MainPage()
         {
+
             this.InitializeComponent();
+
         }
     }
 }
